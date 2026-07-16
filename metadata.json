@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: ระบบผู้ช่วยค้นหาระเบียบและจัดทำเอกสารราชการกองทัพเรือ",
+  "description": "ระบบปัญญาประดิษฐ์สำหรับค้นหาระเบียบราชการ ตอบคำถามกฎหมาย สรุปเอกสาร และร่างหนังสือราชการสำหรับกองทัพเรือไทย",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
